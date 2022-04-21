@@ -1,0 +1,58 @@
+gpu_performance_analysis    1
+versions   1 
+data_performance_analysis   1
+profiler    11
+create_op   32
+intro_to_modules    43 
+basics 52 
+variable    57
+effective_tf2   60
+function    67
+autodiff    83
+data_performance    90
+extension_type  102
+tensor_slicing  119
+ragged_tensor   125
+saved_model 141
+distributed_training    148
+tpu 157
+estimator   161
+graph_optimization  168
+advanced_autodiff   171
+random_numbers  179
+sparse_tensor   185
+basic_training_loops    191
+tf_numpy    195
+mixed_precision 203
+checkpoint  210
+intro_to_graphs 215
+gpu 222
+tensor  226
+data    236
+keras   255
+- README  255
+migrate 255
+- migrate_tf2 255
+- multi_worker_cpu_gpu_training   257
+- tpu_estimator   261
+- checkpoint_saver    263
+- validate_correctness    266
+- upgrade 278
+- canned_estimators   282
+- tensorboard 287
+- saved_model 289
+- tflite  296
+- migration_debugging 300
+- tpu_embedding   308
+- tf1_vs_tf2  313
+- metrics_optimizers  326
+- migrating_checkpoints   328
+- fault_tolerance 339
+- logging_stop_hook   343
+- migrating_feature_columns   346
+- sessionrunhook_callback 352
+- evaluator   355
+- mirrored_strategy   357
+- migrating_estimator 359
+- model_mapping   362
+- early_stopping  377
